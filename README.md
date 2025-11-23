@@ -1,4 +1,4 @@
-# DL_Project — Quick start
+# DL_Project Run Guide
 
 Prereqs:
 - Place your `kaggle.json` at `~/.kaggle/kaggle.json`
