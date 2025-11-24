@@ -38,7 +38,7 @@ Steps:
 
 Notes:
 - If you get OOM, reduce IMG_SIZE in config.py to (160,160) and/or reduce BATCH_SIZE to 4 or 2.
-- NASNetLarge is prone to OOM on GTX1650; skip or replace with NasNetMobile.
+- NASNetLarge is prone to OOM
 - To disable segmentation preprocessing, set USE_SEGMENTATION=False in config.py.
 
 Outputs:
